@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# Additional for VC++ 6.0
+*.ilk
+*.pdb
+*.idb
+*.plg
